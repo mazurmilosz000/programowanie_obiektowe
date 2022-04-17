@@ -1,0 +1,9 @@
+prostokat o wymiarach: a = 43 i b = 26 ma pole wynoszace: 1118
+prostokat o wymiarach: a = 12 i b = 32 ma pole wynoszace: 384
+ulamek: 3/17 czyli: 0.176471
+prostokat o wymiarach: a = 12 i b = 33 ma pole wynoszace: 396
+ulamek: 1/2 czyli: 0.5
+prostokat o wymiarach: a = 5 i b = 7 ma pole wynoszace: 35
+ulamek: 3/15 czyli: 0.2
+prostokat o wymiarach: a = 21 i b = 21 ma pole wynoszace: 441
+ulamek: 77/14 czyli: 5.5
